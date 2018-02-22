@@ -4,10 +4,9 @@ Header: #fff
 Base: #1C232E
 Darker: 161C28
 Lighter: 2F3846
-Link: 359CF9;
 */
 
-/* body { background: #1C232E; color: #BAD2DC; }
+body { background: #1C232E; color: #BAD2DC; }
 #footer, #footer.footer_msg_input { background: #1C232E; color: #BAD2DC; box-shadow: inset 1px 0 0 0 #222; }
 .p-channel_sidebar { background-color: #1C232E; color: #BAD2DC; }
 .c-message_list__day_divider__line { border-top-color: #2F3846; }
@@ -25,16 +24,4 @@ a:hover, a:active, a:focus { color: #c7c7c7; }
 
 hr { border-bottom: 1px solid 2F3846; border-top: 1px solid #222; }
 
-h1, h2, h3, h4, h1 a, h1 a:active, h1 a:hover, h1 a:link, h1 a:visited { color: #fff; } */
-
-body, * {
-  color: #BAD2DC;
-  background: #1C232E;
-  border-color: #2F3846 !important;
-}
-h1, h2, h3, h4, h5, h6 {
-  color: #fff;
-}
-a {
-  color: #359CF9;
-}
+h1, h2, h3, h4, h1 a, h1 a:active, h1 a:hover, h1 a:link, h1 a:visited { color: #fff; }
