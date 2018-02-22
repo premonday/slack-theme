@@ -4,16 +4,6 @@ Darker Tone: #161C28;
 
 */
 
-body { background: #161C28; color: #BAD2DC; }
-#footer, #footer.footer_msg_input { background: #161C28; color: #BAD2DC; box-shadow: inset 1px 0 0 0 #161C28; }
-.p-channel_sidebar { background-color: #161C28 !important; color: #BAD2DC; }
-.c-message_list__day_divider__line { border-top-color: #2F3846; }
-.c-message_list__day_divider__label__pill { background: #161C28; position: relative; }
-#team_menu { background: #161C28; border-bottom: 2px solid #161C28; color: #BAD2DC; }
-#team_menu.active, #team_menu:hover { background: #161C28 !important; border-bottom-color: #161C28 !important; }
-.p-channel_sidebar__list { background-color: #161C28; }
-.p-channel_sidebar__badge, .p-channel_sidebar__banner--mentions { background: red; }
-
 a { color: #949494; }
 
 a:link, a:visited { color: #949494; }
@@ -3970,3 +3960,17 @@ comments { box-shadow: inset 1px 0 0 rgba(0, 0, 0, 0.25); }
 .para_menu a.trigger.pilcrow { filter: grayscale(2) brightness(1.8); }
 
 .para_menu a.trigger.pilcrow:hover, .para_menu a.trigger.pilcrow.active { filter: grayscale(2) brightness(2); }
+
+
+
+
+
+body { background: #161C28; color: #BAD2DC; }
+#footer, #footer.footer_msg_input { background: #161C28; color: #BAD2DC; box-shadow: inset 1px 0 0 0 #161C28; }
+.p-channel_sidebar { background-color: #161C28 !important; color: #BAD2DC; }
+.c-message_list__day_divider__line { border-top-color: #2F3846; }
+.c-message_list__day_divider__label__pill { background: #161C28; position: relative; }
+#team_menu { background: #161C28; border-bottom: 2px solid #161C28; color: #BAD2DC; }
+#team_menu.active, #team_menu:hover { background: #161C28 !important; border-bottom-color: #161C28 !important; }
+.p-channel_sidebar__list { background-color: #161C28; }
+.p-channel_sidebar__badge, .p-channel_sidebar__banner--mentions { background: red; }
