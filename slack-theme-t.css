@@ -154,7 +154,7 @@ h1 a:active, h1 a:hover, h1 a:link, h1 a:visited { color: #e6e6e6; }
 
 .infinite_spinner_bg, .infinite_spinner_blue { stroke: #e6e6e6; }
 
-body.loading #team_menu, body.loading #quick_switcher_btn, body.loading #team_menu_overlay, body.loading #col_channels_overlay, body.loading #col_channels { background-color: #2F3846; }
+body.loading #team_menu, body.loading #quick_switcher_btn, body.loading #team_menu_overlay, body.loading #col_channels_overlay, body.loading #col_channels { background-color: #161C28; }
 
 input[type=text], input[type=password], input[type=datetime], input[type=datetime-local], input[type=date], input[type=month], input[type=time], input[type=week], input[type=number], input[type=email], input[type='url'], input[type=tel], input[type=color], input[type=search] { background-color:  #2F3846; border-color: #000; color: #e6e6e6; }
 
@@ -668,11 +668,11 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .tab_complete_ui .not_in_channel { color: #359CF9; }
 
-#team_menu { background: #2F3846; border-bottom: 2px solid #2F3846; color: #e6e6e6; }
+#team_menu { background: #161C28; border-bottom: 2px solid #2F3846; color: #e6e6e6; }
 
-#team_menu.active, #team_menu:hover { background: #2F3846 !important; border-bottom-color: #2F3846 !important; }
+#team_menu.active, #team_menu:hover { background: #2F3846 !important; border-bottom-color: transparent !important; }
 
-#team_menu.active i, #team_menu:hover i { color: #e6e6e6; }
+#team_menu.active i, #team_menu:hover i { color: #359CF9; }
 
 #team_menu i { color: #359CF9; }
 
