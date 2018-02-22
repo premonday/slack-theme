@@ -11,6 +11,7 @@ body { background: #1C232E; color: #BAD2DC; }
 .c-message_list__day_divider__label__pill { background: #1C232E; position: relative; }
 #team_menu { background: #161C28; border-bottom: 2px solid #161C28; color: #BAD2DC; }
 #team_menu.active, #team_menu:hover { background: #161C28 !important; border-bottom-color: #161C28 !important; }
+.p-channel_sidebar__list { background-color: #161C28;  }
 
 a { color: #949494; }
 
