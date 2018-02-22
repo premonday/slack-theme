@@ -1,5 +1,19 @@
+/*
+Text: #BAD2DC
+Header: #fff
+Base: #1C232E
+Darker: #161C28
+Lighter: #2F3846
+Link: #359CF9
+*/
+
 body { background: #1C232E; color: #BAD2DC; }
-#footer, #footer.footer_msg_input { background: #1C232E; color: #BAD2DC; box-shadow: inset 1px 0 0 0 #222; }
+#footer, #footer.footer_msg_input { background: #1C232E; color: #BAD2DC; box-shadow: inset 1px 0 0 0 #161C28; }
+.p-channel_sidebar { background-color: #1C232E; color: #BAD2DC; }
+.c-message_list__day_divider__line { border-top-color:  #2F3846; }
+.c-message_list__day_divider__label__pill { background: #161C28; position: relative; }
+.client_channels_list_container { background-color: #161C28 !important; border-right-color: #2F3846 !important; }
+.channel_header { background: #1C232E; box-shadow: inset 0px 0 0 0 #161C28; }
 
 a { color: #949494; }
 
