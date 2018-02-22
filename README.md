@@ -1,6 +1,7 @@
 # slack-theme
 Personal slack theme
 
+```
 // Custom Slack Styling
 document.addEventListener('DOMContentLoaded', function() {
  $.ajax({
@@ -10,3 +11,4 @@ document.addEventListener('DOMContentLoaded', function() {
    }
  });
 });
+```
