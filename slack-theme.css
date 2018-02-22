@@ -3,3 +3,9 @@ body { background: #1C232E; color: #BAD2DC; }
 .p-channel_sidebar { background-color: #1C232E; color: #BAD2DC; }
 .c-message_list__day_divider__line { border-top-color: #2F3846; }
 .c-message_list__day_divider__label__pill { background: #222; position: relative; }
+
+.bordered { border: 1px solid #red; }
+.top_border { border-top: 1px solid #red; }
+.bottom_border { border-bottom: 1px solid #red; }
+.left_border { border-left: 1px solid #red; }
+.right_border { border-right: 1px solid #red; }
