@@ -703,7 +703,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .channel_header .blue_on_hover:hover { color: #e6e6e6; }
 
-#client_body:not(.onboarding)::before { background: #161C28; border-bottom: 1px solid #2F3846; box-shadow: inset 1px 0 0 0 #161C28; }
+#client_body:not(.onboarding)::before { background: #1C232E; border-bottom: 0px solid transparent; box-shadow: inset 0px 0 0 0 #161C28; }
 
 .messages_header { color: #e6e6e6; }
 
