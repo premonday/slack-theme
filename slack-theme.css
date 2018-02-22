@@ -10,7 +10,8 @@ body { background: #1C232E; color: #BAD2DC; }
 #footer, #footer.footer_msg_input { background: #1C232E; color: #BAD2DC; box-shadow: inset 1px 0 0 0 #222; }
 .p-channel_sidebar { background-color: #1C232E; color: #BAD2DC; }
 .c-message_list__day_divider__line { border-top-color: #2F3846; }
-.c-message_list__day_divider__label__pill { background: #222; position: relative; }
+.c-message_list__day_divider__label__pill { background: #1c232e; position: relative; }
+.p-channel_sidebar .c-custom_scrollbar__thumb_vertical, .p-channel_sidebar .c-scrollbar__bar { background: #161c28; }
 
 .bordered { border: 1px solid #red; }
 .top_border { border-top: 1px solid #red; }
@@ -22,6 +23,6 @@ a, a:link, a:visited { color: #949494; }
 
 a:hover, a:active, a:focus { color: #c7c7c7; }
 
-hr { border-bottom: 1px solid 2F3846; border-top: 1px solid #222; }
+hr { border-bottom: 1px solid 2F3846; border-top: 1px solid transparent; }
 
 h1, h2, h3, h4, h1 a, h1 a:active, h1 a:hover, h1 a:link, h1 a:visited { color: #fff; }
