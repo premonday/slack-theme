@@ -15,8 +15,10 @@ body { background: #1C232E; color: #BAD2DC; }
 .client_channels_list_container { background-color: #161C28 !important; border-right-color: #2F3846 !important; }
 .channel_header { background: #1C232E !important; box-shadow: inset 0px 0 0 0 #161C28; }
 #msg_input { background: #161C28; border-color: #2F3846; color: #BAD2DC; }
+.client_main_container { border-right: 1px solid #1C232E !important; }
 
 ts-space header .owner_detail ::selection, ts-space header .owner_detail ::-moz-selection { background-color: #359CF9; color: #fff; }
+.c-message_attachment__image, .c-message_attachment__thumb, .c-message_attachment__video_thumb { box-shadow: 0 5px 10px rgba(0, 0, 0, 0.5) inset; border: 1px solid #2F3846; }
 
 /* */
 /* Sidebar */
@@ -1122,8 +1124,6 @@ ts-mention { background: rgba(130, 130, 130, 0.1) !important; color: #BAD2DC !im
 .c-message_attachment__text_expander { color: #949494; }
 
 .c-message_attachment__footer { color: #949494; }
-
-.c-message_attachment__image, .c-message_attachment__thumb, .c-message_attachment__video_thumb { box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.1) inset; }
 
 .c-message_attachment__video_html { background-color: rgba(34, 34, 34, 0.4); }
 
