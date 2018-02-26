@@ -38,8 +38,8 @@ ts-space header .owner_detail ::selection, ts-space header .owner_detail ::-moz-
 /* */
 .c-message:hover .c-message__body--automated, .c-message--hover .c-message__body--automated .c-message--focus .c-message__body--automated { color: #359CF9; }
 .c-message:hover .c-message__file_meta, .c-message--hover .c-message__file_meta .c-message--focus .c-message__file_meta { color: #359CF9; }
-.c-mrkdwn__member--link, .c-mrkdwn__subteam--link {
-    background: #2F3846 !important;
+.c-mrkdwn__member--link, .c-mrkdwn__subteam--link, .c-mrkdwn__member--link:visited, .c-mrkdwn__member--link:active, .c-mrkdwn__member--link:hover, .c-mrkdwn__subteam--link:visited, .c-mrkdwn__subteam--link:active, .c-mrkdwn__subteam--link:hover {
+    background: #359CF9 !important;
     color: #fff !important;
 }
 
